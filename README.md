@@ -30,6 +30,12 @@ const myProfile = {
 <hr />
 <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" />
 
+## my project 
+
+<img style='width: 600px' src='./screen-book-store.PNG' />
+<img style='width: 600px' src='./screen-note-app.PNG' />
+<img style='width: 600px' src='./screen-fight-club.png' />
+
 <hr />
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=MehrdadSabori&label=Profile%20Views&color=0&icon=0&pretty=false" />
