@@ -32,9 +32,19 @@ const myProfile = {
 
 ## my project 
 
-<img style='width: 600px' src='./screen-book-store.PNG' />
-<img style='width: 600px' src='./screen-note-app.PNG' />
-<img style='width: 600px' src='./screen-fight-club.png' />
+<a href="https://book-web-store.iran.liara.run/" >book store demo</a>
+  
+<img style='width: 400px' src='./screen-book-store.PNG' /> 
+
+<a href="https://note-app-vip.iran.liara.run/" >note app demo</a> 
+
+<img style='width: 400px' src='./screen-note-app.PNG' />
+
+<a href="https://mehrdadsabori.github.io/fight_club/" >figth club demo</a> 
+
+<img style='width: 400px' src='./screen-fight-club.png' />
+               
+
 
 <hr />
 <a href="https://visitcount.itsvg.in">
