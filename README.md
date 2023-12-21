@@ -30,7 +30,7 @@ const myProfile = {
 <hr />
 <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" />
 
-## my project 
+## my projects 
 
 <a href="https://book-web-store.iran.liara.run/" >book store demo</a>
   
