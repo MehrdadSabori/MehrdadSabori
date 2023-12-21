@@ -27,24 +27,22 @@ const myProfile = {
   </a>
 
 ### skills me
-<hr />
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" />
+
+<img align="center" src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" />
 
 ## my projects 
 
-<a href="https://book-web-store.iran.liara.run/" >book store demo</a>
-  
-<img style='width: 400px' src='./screen-book-store.PNG' /> 
+<a  href="https://book-web-store.iran.liara.run/" >book store demo</a> 
 
-<a href="https://note-app-vip.iran.liara.run/" >note app demo</a> 
+<img style='width: 400px' src='./screen-book-store.PNG' /> <p>description: react app , js , online shope , responsive </p>
 
-<img style='width: 400px' src='./screen-note-app.PNG' />
+<a  href="https://note-app-vip.iran.liara.run/" >note app demo</a> 
+
+<img  style='width: 400px' src='./screen-note-app.PNG' /> 
 
 <a href="https://mehrdadsabori.github.io/fight_club/" >figth club demo</a> 
 
-<img style='width: 400px' src='./screen-fight-club.png' />
-               
-
+<img style='width: 400px' src='./screen-fight-club.png' /> 
 
 <hr />
 <a href="https://visitcount.itsvg.in">
