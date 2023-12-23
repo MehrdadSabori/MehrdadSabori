@@ -28,7 +28,7 @@ const myProfile = {
   </a>
 
 ### skills me
-
+<hr />
 <img align="center" src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" />
 
 ## my projects 
