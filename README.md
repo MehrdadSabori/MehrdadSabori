@@ -1,4 +1,5 @@
-### about me
+### about me 
+###### my resume → <a href="./resume-mehrdad-sabori.pdf">click me</a>
 <hr />
 
 ```javascript
